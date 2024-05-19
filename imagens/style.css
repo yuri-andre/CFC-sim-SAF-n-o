@@ -1,0 +1,19 @@
+h1{
+    color:darkgreen;
+}
+
+h2{color:green;}
+
+body{
+    background-color: black;
+    color:white;
+    font-size: large;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+header{border-bottom: 2px solid yellow;}
+footer{border-top: 2px solid yellow;}
+#vermelho{color:red}
+#verdão{font-size:xx-large; color:darkgreen;font-weight: bold;}
+.itálico{font-style: italic;}
